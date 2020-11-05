@@ -1,0 +1,26 @@
+{
+    "service-price": 2980,
+    "bill": [
+        {
+            "title": "Rakuten UN-LIMIT V",
+            "monthlyBill": 0,
+            "oneTimeBill": null,
+            "nextTimeBill": 3000,
+            "isTotal": false
+        },
+        {
+            "title": "消費税",
+            "monthlyBill": 0,
+            "oneTimeBill": 0,
+            "nextTimeBill": 300,
+            "isTotal": false
+        },
+        {
+            "title": "合計（税込）",
+            "monthlyBill": 0,
+            "oneTimeBill": 0,
+            "nextTimeBill": 3300,
+            "isTotal": true
+        }
+    ]
+}

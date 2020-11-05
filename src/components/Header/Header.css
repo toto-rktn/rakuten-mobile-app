@@ -1,0 +1,32 @@
+.half {
+    width: 50%;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.header-horizontal {
+    display: flex;
+    padding: 12px 0;
+}
+
+.header-right-margin {
+    margin-right: 48px;
+}
+
+#header-container {
+    padding-left: 6vw;
+    padding-right: 6vw;
+
+    border: 0;
+    border-top: 3px;
+    border-style: solid;
+    border-color: #FF008C;
+}
+
+#rm-logo {
+    margin-right: 50px;
+    width: 161px;
+    height: auto;
+}

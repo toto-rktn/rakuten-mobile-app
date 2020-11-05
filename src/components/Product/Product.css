@@ -1,0 +1,90 @@
+.main-prod {
+    padding: 40px;
+    width: 65%;
+    margin: 0 30px auto 0;
+}
+
+.aside-prod {
+    width: 30%;
+    margin: 0 0 0 auto;
+}
+
+.center-image {
+    margin: 0 auto 0 auto;
+    height: 65px;
+    width: auto;
+}
+
+.app-content-title {
+    padding: 25px 25px 20px 25px;
+}
+
+.rakuten-point-card-container {
+    padding: 16px 25px 25px 25px;
+}
+
+.rakuten-point-card {
+    background-color: white;
+    padding: 20px;
+
+    border: 0px;
+    border-top: 3px;
+    border-color: #000037;
+    border-style: solid;
+}
+
+.service-content-explanation {
+    position: relative;
+    display: flex;
+
+    border: 0px;
+    border-bottom: 1px;
+    border-color: lightgray;
+    border-style: solid;
+
+    padding-bottom: 20px;
+}
+
+.service-content-footer {
+    padding: 24px 0 0 0;
+}
+
+.main-footer-button {
+    width: 250px;
+    height: 40px;
+    border-radius: 2.5px;
+    
+    display: flex; 
+    align-items:center; 
+    justify-content: center;
+}
+
+#pink-circle {
+    width: 40px;
+    position: absolute;
+    top: 9px;
+    left: -10px;
+}
+
+#coupon-button {
+    display: flex; 
+    align-items:center; 
+    justify-content: center;
+
+    margin: 0 auto;
+}
+
+#coupon {
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+#price-container {
+    text-align: right;
+    padding-bottom: 30px;
+}
+
+#service-options {
+    float: right;
+}

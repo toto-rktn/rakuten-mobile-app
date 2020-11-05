@@ -1,0 +1,93 @@
+{
+    "telecom-service": [
+        {
+            "title": "Voice Mail",
+            "price": 0,
+            "description": "電話に出られない時に、相手の伝言を預かり、後で再生できます",
+            "selected": true,
+            "iconImg": null,
+            "id": "akjhsf2"
+        },
+        {
+            "title": "Call Transfer",
+            "price": 0,
+            "description": "かかってきた電話を、あらかじめ登録済みの別の電話へ自動転送します",
+            "selected": true,
+            "iconImg": null,
+            "id": "oierng3"
+        },
+        {
+            "title": "Call Waiting",
+            "price": 0,
+            "description": "通話中の電話を保留にし、他の電話を発信・受信できます",
+            "selected": true,
+            "iconImg": null,
+            "id": "t3g4un"
+        },
+        {
+            "title": "International Call",
+            "price": 980,
+            "description": "海外指定66の国と地域の通話がかけ放題になるサービスです。Rakuten Linkアプリおよび通常の電話アプリでの通話が対象となります。",
+            "selected": false,
+            "iconImg": null,
+            "id": "8934fbfg"
+        }
+    ],
+    "service" : [
+        {
+            "title": "楽天モバイルWiFi by エコネクト",
+            "price": 362,
+            "description": "日本全国の豊富な有料Wi-Fiスポットを利用できます",
+            "selected": false,
+            "iconImg": null,
+            "id": "gm)3904"
+        },
+        {
+            "title": "スマホ操作遠隔サポート",
+            "price": 500,
+            "description": "専用オペレータがスマホ等の困りごとを遠隔でサポートします",
+            "selected": false,
+            "iconImg": null,
+            "id": "12r3njjvrv"
+        },
+        {
+            "title": "マカフィー® モバイル セキュリティ Android版",
+            "price": 200,
+            "description": "ウイルス対策や危険サイトなど、製品をさまざまなリスクから守ります",
+            "selected": false,
+            "iconImg": null,
+            "id": "iouh3j9"
+        },
+        {
+            "title": "あんしんコントロール by i-フィルター",
+            "price": 300,
+            "description": "お子さまのスマホ利用を見守るフィルタリングサービスです",
+            "selected": false,
+            "iconImg": null,
+            "id": "y798f6"
+        }
+    ],
+    "sim-type": [{
+        "title": "SIM Type",
+        "btn1Title": "nanoSIM",
+        "btn2Title": "eSIM",
+        "description": "SIMカードの初期設定に失敗した場合は、my楽天モバイル、店舗またはコミュニケーションセンターよりSIM交換のお手続きを行ってください",
+        "anotherLinkTitle": "eSIM対応製品はRakuten Miniのみとなります。eSIMとは？",
+        "selected": null,
+        "iconImg": null
+    }],
+    "service-fee": [{
+        "title": "Service Fee",
+        "price": 3000,
+        "description": null,
+        "selected": true,
+        "iconImg": null
+    }],
+    "plans": [{
+        "title": "Rakuten UN-LIMIT V",
+        "price": 2980,
+        "description": null,
+        "selected": false,
+        "iconImg": null
+    }]
+}

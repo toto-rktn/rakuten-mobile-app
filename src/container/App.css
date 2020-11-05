@@ -1,0 +1,142 @@
+h1 {
+  margin-bottom: 0;
+  font-size: 70px;
+}
+
+h2 {
+  margin-bottom: 0;
+  margin-top: 0;
+
+  font-size: 22px;
+}
+
+h3 {
+  margin: 0;
+  font-size: 25px;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #FF008C;
+  font-weight: bold;
+}
+
+.App {
+  background-color: #EBEBEB;
+  color: #000037;
+  height: 500px;
+}
+
+.outermost {
+  margin-left: 6vw;
+  margin-right: 6vw;
+}
+
+.horizontal {
+  display: flex;
+  align-items: center;
+}
+
+.card {
+  background-color: white;
+  border-radius: 5px;
+}
+
+/* * * * * * Button * * * * * */
+.no-effect-btn {
+  border: 0;
+  padding: 0;
+
+  font: inherit;
+  font-weight: bold;
+  color: #FF008C; 
+  background-color: transparent;
+
+  cursor: pointer;
+}
+
+.bg-pink-btn {
+  border: 0;
+  border-radius: 3px;
+
+  font: inherit;
+  color: white; 
+  background-color: #FF008C;
+
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 11px;
+
+  cursor: pointer;
+}
+
+
+/* * * * * * Border * * * * * */
+.border-bottom {
+  border: 0;
+  border-bottom: 1.5px;
+  border-style: solid;
+  border-color: #CACBDB;
+}
+
+/* * * * * * Shadow * * * * * */
+.box-shadow {
+  box-shadow: 4px 4px 8px lightgray;
+}
+
+/* * * * * * Fonts * * * * * */
+.bold {
+  font-weight: bold;
+}
+
+.boldest {
+  font-weight: 900;
+}
+
+.dim-gray {
+  color: #CACBDB;
+}
+
+.script-gray {
+  color: #9E9EB9
+}
+
+.blue-gray {
+  color: #5E5E8A;
+}
+
+.small-img-icon {
+  width: 22px;
+  height: auto;
+}
+
+.mid-font {
+  font-size: 18px;
+}
+
+.small-font {
+  font-size: 14px;
+}
+
+.smaller-font {
+  font-size: 12px;
+}
+
+.mid-img-icon {
+  width: 28px;
+  height: auto;
+}
+
+.icon-right-margin {
+  margin-right: 10px;
+}
+
+.on-the-right-end {
+  margin: 0 0 0 auto;
+}

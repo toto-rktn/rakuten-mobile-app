@@ -1,0 +1,18 @@
+button:focus {
+    outline: 0;
+}
+
+#service-cost-amount {
+    font-weight: 800;
+    font-size: 25px;
+}
+
+#service-cost-unit {
+    font-weight: normal;
+    font-size: 18px;
+}
+
+#choose-btn {
+    background-color: #FF008C;
+    color: white;
+}
